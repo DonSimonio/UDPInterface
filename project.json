@@ -1,0 +1,10 @@
+{
+    "project_name": "UDPInterface",
+    "version": "1.0.0",
+    "sources": ["source"],
+    "headers": ["include"],
+    "libs": [],
+    "dependencies": [],
+    "target": "lib"
+}
+  
